@@ -1,7 +1,5 @@
 
-0
-java:S1220""Move this file to a named package.
 Z
 java:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8·ìúş.
-£
-java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¡şÏÖøÿÿÿÿ8‘ÑÑƒÿ.
+0
+java:S1220""Move this file to a named package.
