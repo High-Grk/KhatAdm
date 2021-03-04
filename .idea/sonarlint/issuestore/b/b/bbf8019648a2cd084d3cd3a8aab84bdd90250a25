@@ -1,5 +1,5 @@
 
 0
 java:S1220""Move this file to a named package.
-l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µí†v8Ç³±šÿ.
 u	java:S116"TRename this field "nro_serie" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿ€à…ûÿÿÿÿ8õç‹‰ÿ.
+l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µí†v8Ç³±šÿ.

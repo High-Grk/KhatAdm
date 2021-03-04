@@ -1,30 +1,36 @@
 
-Z	java:S1068"9Replace this use of System.out or System.err by a logger.(Èü¾úÿÿÿÿ8ö·Æšÿ.
-0
-java:S1220""Move this file to a named package.
+U	java:S106E"9Replace this use of System.out or System.err by a logger.(áÆÈó8†ááÎÿ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ıÖïÀşÿÿÿÿ8§†åšÿ.
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õ½Êúÿÿÿÿ8§†åšÿ.
+Z	java:S106F"9Replace this use of System.out or System.err by a logger.(ƒÇãˆúÿÿÿÿ8è€ìÎÿ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(‰Œİ½ÿÿÿÿÿ8§†åšÿ.
+o	java:S100B"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æ±»âùÿÿÿÿ8ŸèŞÎÿ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(”¿İ‰8§†åšÿ.
+r	java:S117:"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ĞÉÇóøÿÿÿÿ8ÕÀÂšÿ.
+’
+java:S1192"uDefine a constant instead of duplicating this literal "====================================================" 6 times.(”¿İ‰8§†åšÿ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¬ÅØ©øÿÿÿÿ8²²ÛÎÿ.
 U	java:S106"9Replace this use of System.out or System.err by a logger.(”¿İ‰8§†åšÿ.
-Z	java:S106-"9Replace this use of System.out or System.err by a logger.(Ã×Ô·úÿÿÿÿ8ö·Æšÿ.
-o	java:S100+"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß˜¢±üÿÿÿÿ8ö·Æšÿ.
-U	java:S106"9Replace this use of System.out or System.err by a logger.(”¿İ‰8§†åšÿ.
-U	java:S106"9Replace this use of System.out or System.err by a logger.(›ôœÄ8§†åšÿ.
-r	java:S117,"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿ€à…ûÿÿÿÿ8œä»šÿ.
+U	java:S1065"9Replace this use of System.out or System.err by a logger.(”¿İ‰8ö·Æšÿ.
+Z	java:S106<"9Replace this use of System.out or System.err by a logger.(Èü¾úÿÿÿÿ8ö·Æšÿ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(”¿İ‰8§†åšÿ.
 {
 java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(£ñê†şÿÿÿÿ8ö·Æšÿ.
-r	java:S1176"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ĞÉÇóøÿÿÿÿ8ÕÀÂšÿ.
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(¾€¹úÿÿÿÿ8§†åšÿ.
-U	java:S106;"9Replace this use of System.out or System.err by a logger.(”¿İ‰8ö·Æšÿ.
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(³—”Èùÿÿÿÿ8§†åšÿ.
-o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õ½Êúÿÿÿÿ8§†åšÿ.
-U	java:S1061"9Replace this use of System.out or System.err by a logger.(”¿İ‰8ö·Æšÿ.
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(ıÖïÀşÿÿÿÿ8§†åšÿ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(êµà‰8§†åšÿ.
+U	java:S106H"9Replace this use of System.out or System.err by a logger.(”¿İ‰8ÄşçÎÿ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Áò‚‰8§†åšÿ.
+j	java:S1009"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Â³¥¤8ö·Æšÿ.
+0
+java:S1220""Move this file to a named package.
+Z	java:S106C"9Replace this use of System.out or System.err by a logger.(Ñ©éÙøÿÿÿÿ8ç·æÎÿ.
+U	java:S1061"9Replace this use of System.out or System.err by a logger.(»Óè¡8ö·Æšÿ.
+o	java:S100/"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß˜¢±üÿÿÿÿ8ö·Æšÿ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(‹Ÿàúÿÿÿÿ8§†åšÿ.
+Z	java:S1062"9Replace this use of System.out or System.err by a logger.(Èü¾úÿÿÿÿ8ö·Æšÿ.
 v
 java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(âÙ 8ö·Æšÿ.
-U	java:S106"9Replace this use of System.out or System.err by a logger.(êµà‰8§†åšÿ.
->	java:S131""Add a default case to this switch.(°€àâ8§†åšÿ.
-j	java:S1005"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Â³¥¤8ö·Æšÿ.
-Z	java:S1067"9Replace this use of System.out or System.err by a logger.(Ã×Ô·úÿÿÿÿ8ö·Æšÿ.
-U	java:S106"9Replace this use of System.out or System.err by a logger.(Áò‚‰8§†åšÿ.
-’
-java:S1192"uDefine a constant instead of duplicating this literal "====================================================" 5 times.(”¿İ‰8§†åšÿ.
-Z	java:S106."9Replace this use of System.out or System.err by a logger.(Èü¾úÿÿÿÿ8ö·Æšÿ.
-U	java:S106"9Replace this use of System.out or System.err by a logger.(”¿İ‰8§†åšÿ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ç›ƒ¡8§†åšÿ.
+>	java:S131""Add a default case to this switch.(°€àâ8§†åšÿ.
+r	java:S1170"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿ€à…ûÿÿÿÿ8œä»šÿ.
+U	java:S106;"9Replace this use of System.out or System.err by a logger.(»Óè¡8ö·Æšÿ.
+U	java:S106?"9Replace this use of System.out or System.err by a logger.(”¿İ‰8ö·Æšÿ.
