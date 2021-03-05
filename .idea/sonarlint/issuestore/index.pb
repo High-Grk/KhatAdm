@@ -13,3 +13,5 @@ M
 src/main/java/Materiales.java,a\d\adb9600903b3222df7cb44a212573457f37f47dd
 Q
 !src/main/java/Administracion.java,2\2\2227b47cccb9f0e407196f6f1ae126986e2df935
+<
+settings.xml,1\d\1d784fce58c3719506730fb9749600554125b511
